@@ -1,0 +1,13 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "main": "index",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "licence": "MIT",
+  "author": "Jayr Camacho",
+  "description": "Simple node solution for binary search tree",
+  "dependencies": {},
+  "devDependencies": {}
+}
